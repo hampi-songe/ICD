@@ -1,2 +1,2 @@
 # ICD
-tamadeicd10bianma
+[模型](https://hf-mirror.com/medicalai/MedFound-7B)
